@@ -1,0 +1,23 @@
+c:\users\p\documents\visual studio 2012\Projects\SSM RemoteControl Project Ver2.0\SSM RemoteControl Project Ver2.0\obj\Debug\SSM RemoteControl Project Ver2.0.csprojResolveAssemblyReference.cache
+c:\users\p\documents\visual studio 2012\Projects\SSM RemoteControl Project Ver2.0\SSM RemoteControl Project Ver2.0\obj\Debug\SSM_RemoteControl_Project_Ver2._0.Properties.Resources.resources
+c:\users\p\documents\visual studio 2012\Projects\SSM RemoteControl Project Ver2.0\SSM RemoteControl Project Ver2.0\obj\Debug\SSM RemoteControl Project Ver2.0.csproj.GenerateResource.Cache
+C:\Users\p\Desktop\SSM\★ 창의 과제 ★\C# 백업 프로젝트\07.22 키보드, 마우스 구현 완료\SSM RemoteControl Project Ver2.0\bin\Debug\SSM RemoteControl Project Ver2.0.exe.config
+C:\Users\p\Desktop\SSM\★ 창의 과제 ★\C# 백업 프로젝트\07.22 키보드, 마우스 구현 완료\SSM RemoteControl Project Ver2.0\obj\Debug\SSM RemoteControl Project Ver2.0.exe
+C:\Users\p\Desktop\SSM\★ 창의 과제 ★\C# 백업 프로젝트\07.22 키보드, 마우스 구현 완료\SSM RemoteControl Project Ver2.0\obj\Debug\SSM RemoteControl Project Ver2.0.pdb
+C:\Users\p\Desktop\SSM\★ 창의 과제 ★\C# 백업 프로젝트\07.22 키보드, 마우스 구현 완료\SSM RemoteControl Project Ver2.0\bin\Debug\SSM RemoteControl Project Ver2.0.exe
+C:\Users\p\Desktop\SSM\★ 창의 과제 ★\C# 백업 프로젝트\07.22 키보드, 마우스 구현 완료\SSM RemoteControl Project Ver2.0\bin\Debug\SSM RemoteControl Project Ver2.0.pdb
+C:\Users\p\Desktop\SSM\★ 창의 과제 ★\C# 백업 프로젝트\07.22 키보드, 마우스 구현 완료\SSM RemoteControl Project Ver2.0\obj\Debug\SSM RemoteControl Project Ver2.0.csprojResolveAssemblyReference.cache
+C:\Users\p\Desktop\SSM\★ 창의 과제 ★\C# 백업 프로젝트\07.22 키보드, 마우스 구현 완료\SSM RemoteControl Project Ver2.0\obj\Debug\SSM_RemoteControl_Project_Ver2._0.Form1.resources
+C:\Users\p\Desktop\SSM\★ 창의 과제 ★\C# 백업 프로젝트\07.22 키보드, 마우스 구현 완료\SSM RemoteControl Project Ver2.0\obj\Debug\SSM_RemoteControl_Project_Ver2._0.Properties.Resources.resources
+C:\Users\p\Desktop\SSM\★ 창의 과제 ★\C# 백업 프로젝트\07.22 키보드, 마우스 구현 완료\SSM RemoteControl Project Ver2.0\obj\Debug\SSM RemoteControl Project Ver2.0.csproj.GenerateResource.Cache
+C:\Users\p\documents\visual studio 2012\Projects\SSM RemoteControl Project Ver2.0\SSM RemoteControl Project Ver2.0\obj\Debug\SSM_RemoteControl_Project_Ver2._0.MainForm.resources
+C:\Users\p\documents\visual studio 2012\Projects\SSM RemoteControl Project Ver2.0\SSM RemoteControl Project Ver2.0\obj\Debug\SSM_RemoteControl_Project_Ver2._0.JoinForm.resources
+C:\Users\p\documents\visual studio 2012\Projects\SSM RemoteControl Project Ver2.0\SSM RemoteControl Project Ver2.0\obj\Debug\SSM_RemoteControl_Project_Ver2._0.SearchForm.resources
+C:\Users\p\documents\visual studio 2012\Projects\SSM RemoteControl Project Ver2.0\SSM RemoteControl Project Ver2.0\obj\Debug\SSM_RemoteControl_Project_Ver2._0.ChangeForm.resources
+C:\Users\p\documents\visual studio 2012\Projects\SSM RemoteControl Project Ver2.0\SSM RemoteControl Project Ver2.0\obj\Debug\SSM_RemoteControl_Project_Ver2._0.DataForm.resources
+C:\Users\p\Documents\Visual Studio 2012\Projects\SSM RemoteControl Project Ver2.0\SSM RemoteControl Project Ver2.0\bin\Debug\SSM_RemoteControl_Project_Ver2.0.exe.config
+C:\Users\p\Documents\Visual Studio 2012\Projects\SSM RemoteControl Project Ver2.0\SSM RemoteControl Project Ver2.0\bin\Debug\SSM_RemoteControl_Project_Ver2.0.exe
+C:\Users\p\Documents\Visual Studio 2012\Projects\SSM RemoteControl Project Ver2.0\SSM RemoteControl Project Ver2.0\bin\Debug\SSM_RemoteControl_Project_Ver2.0.pdb
+C:\Users\p\Documents\Visual Studio 2012\Projects\SSM RemoteControl Project Ver2.0\SSM RemoteControl Project Ver2.0\obj\Debug\SSM_RemoteControl_Project_Ver2._0.SettingForm.resources
+C:\Users\p\Documents\Visual Studio 2012\Projects\SSM RemoteControl Project Ver2.0\SSM RemoteControl Project Ver2.0\obj\Debug\SSM_RemoteControl_Project_Ver2.0.exe
+C:\Users\p\Documents\Visual Studio 2012\Projects\SSM RemoteControl Project Ver2.0\SSM RemoteControl Project Ver2.0\obj\Debug\SSM_RemoteControl_Project_Ver2.0.pdb
